@@ -23,13 +23,6 @@ v5.1.13主控
 curl -fsSL https://raw.githubusercontent.com/zyuwl/fengzi-cdn/main/master.sh -o master.sh && chmod +x master.sh && ./master.sh --es-dir /home/es
 
 
-宝塔安装法:
-
-
-curl -fsSL https://raw.githubusercontent.com/zyuwl/fengzi-cdn/main/master.sh -o master.sh && chmod +x master.sh && ./master.sh --es-dir /home/es --no-mysql --mysql-ip 127.0.0.1 --mysql-db 数据库名 --mysql-user 数据库用户名 --mysql-pass 数据库密码 --mysql-port 3306  --with-bt
-
-
-
 
 v5.1.16被控
 
